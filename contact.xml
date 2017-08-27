@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<contactList> 
+  <contact id="1"> 
+    <name>lucy</name>  
+    <gender>mele</gender>  
+    <age>24</age>  
+    <phone>59359230</phone>  
+    <email>iiejgio@qu.com</email>  
+    <qq>efwrvse</qq> 
+  </contact>  
+  <contact id="2"> 
+    <name>wilson</name>  
+    <gender>male</gender>  
+    <age>20</age>  
+    <phone>15001747516</phone>  
+    <email>eric@qq.com</email>  
+    <qq>1113433</qq> 
+  </contact>  
+  <contact id="3">
+    <name>wanglingsu</name>
+    <gender>female</gender>
+    <age>28</age>
+    <phone>15221822950</phone>
+    <email>wiejoij</email>
+    <qq>jfoweijfoifs</qq>
+  </contact>
+</contactList>
